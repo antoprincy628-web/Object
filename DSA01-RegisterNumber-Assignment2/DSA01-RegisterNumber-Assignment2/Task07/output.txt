@@ -1,0 +1,4 @@
+=== Q7: DAY-4 DESIGN CHALLENGE VALIDATION ===
+Latest 5 transactions: 100 200 300 400 500 
+Latest 5 transactions: 300 400 500 600 700 
+Design validated: O(1) circular buffer insertion achieved successfully!

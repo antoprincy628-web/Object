@@ -1,0 +1,8 @@
+=== Q2: RETURN BY REFERENCE & VECTOR GROWTH DANGER ===
+Before moderation, highest mark: 92
+After applying +2 moderation directly: 94
+
+--- Vector Growth Invalidation Demonstration ---
+topRef points to highest mark: 94
+Vector reallocated due to growth.
+Safe practice: index or iterator should be used instead of raw references across reallocations.

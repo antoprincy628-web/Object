@@ -1,0 +1,8 @@
+=== Q3: OVERLOADING & DEFAULT ARGUMENTS ===
+charge(500 grams int)     : Rs 25
+charge(2.0 double)        : Rs 100
+charge(2.0, true)         : Rs 200
+charge(2.0, true, true)   : Rs 250
+charge(Parcel obj)        : Rs 175
+charge(2 [int match])     : Rs 0.1
+charge(2.0f [float prom]) : Rs 100

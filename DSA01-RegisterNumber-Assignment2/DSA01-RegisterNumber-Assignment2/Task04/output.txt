@@ -1,0 +1,11 @@
+/tmp/DSA01-RegisterNumber-Assignment2/Task04/q4_class_array_transactions.cpp: In member function ‘void SavingsAccount::miniStatement() const’:
+/tmp/DSA01-RegisterNumber-Assignment2/Task04/q4_class_array_transactions.cpp:59:9: warning: unused variable ‘start’ [-Wunused-variable]
+   59 |     int start = (count < 10) ? 0 : 0;
+      |         ^~~~~
+=== Q4: SAVINGS ACCOUNT MINI-STATEMENT ===
+--- Mini-Statement for Account: SA-5001 ---
+Current Balance: Rs 5750
+Recent Transactions:
+  [1] Rs 1000
+  [2] Rs -500
+  [3] Rs 250

@@ -1,0 +1,9 @@
+=== Q5: PREDICT THE OUTPUT SNIPPET ===
+101 103 104 4
+
+=== Q5: COMPLETE THE CODE VERIFICATION ===
+Asha: Seat 1
+Bala: Seat 2
+Chitra: Seat 3
+Dev: Waiting
+Issued: 3

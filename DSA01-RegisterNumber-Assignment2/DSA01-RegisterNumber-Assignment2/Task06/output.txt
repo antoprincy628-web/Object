@@ -1,0 +1,4 @@
+=== Q6: TRAIN JOURNEY PLANNER (FRIEND FUNCTIONS) ===
+205 false
+Same time diff: 0 mins
+Across noon earlier (night, morning): false
